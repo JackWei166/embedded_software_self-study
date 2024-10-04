@@ -1,0 +1,26 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\LinuxShare\09_arm_and_interface\DAY5\ARM-ASM\ARM-ASM.uvproj
+Project File Date:  09/03/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling arm-asm.s...
+--- Error: failed to execute 'arm-none-linux-guneabi-as'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+--- Error: failed to execute 'arm-none-linux-guneabi-as'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).

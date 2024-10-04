@@ -1,0 +1,345 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\LinuxShare\09_arm_and_interface\DAY7\ARM-ASM.uvproj
+Project File Date:  09/04/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(304): error: ARM register expected -- `ldmfd SP!,{R1,R2,CP}'
+arm-asm.s - 1 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(304): error: ARM register expected -- `ldmfd SP!,{R1,R2,CP}^'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(304): error: ARM register expected -- `ldmfd SP!,{R1,R2,CP}^'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(334): error: Missing macro name
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(334): error: Missing macro name
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+Error: arm-asm.s: Error: unaligned opcodes detected in executable segment
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+arm-asm.o: In function `_start':
+D:\LinuxShare\09_arm_and_interface\DAY7/arm-asm.s:381: undefined reference to `func_c'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+linking...
+arm-asm.o: In function `_start':
+D:\LinuxShare\09_arm_and_interface\DAY7/arm-asm.s:381: undefined reference to `func_c'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+compiling test.c...
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling test.c...
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+compiling test.c...
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling test.c...
+linking...
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+compiling test.c...
+test.c: In function 'func_c':
+test.c(6): warning: implicit declaration of function 'FUN_ASM' [-Wimplicit-function-declaration]
+linking...
+test.o: In function `func_c':
+D:\LinuxShare\09_arm_and_interface\DAY7/test.c:6: undefined reference to `FUN_ASM'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+linking...
+test.o: In function `func_c':
+D:\LinuxShare\09_arm_and_interface\DAY7/test.c:6: undefined reference to `FUN_ASM'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+test.o: In function `func_c':
+D:\LinuxShare\09_arm_and_interface\DAY7/test.c:6: undefined reference to `FUN_ASM'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+linking...
+test.o: In function `func_c':
+D:\LinuxShare\09_arm_and_interface\DAY7/test.c:6: undefined reference to `FUN_ASM'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+compiling test.c...
+test.c: In function 'func_c':
+test.c(6): warning: implicit declaration of function 'FUNC_ASM' [-Wimplicit-function-declaration]
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+compiling test.c...
+test.c: In function 'func_c':
+test.c(11): warning: implicit declaration of function 'FUNC_ASM' [-Wimplicit-function-declaration]
+linking...
+test.o: In function `func_c':
+D:\LinuxShare\09_arm_and_interface\DAY7/test.c:11: undefined reference to `FUNC_ASM'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+linking...
+test.o: In function `func_c':
+D:\LinuxShare\09_arm_and_interface\DAY7/test.c:11: undefined reference to `FUNC_ASM'
+c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_gnu_linux/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/../../../../arm-none-linux-gnueabi/bin/ld.exe: BFD (Sourcery CodeBench Lite 2011.09-70) 2.21.53.20110905 assertion fail /scratch/jwlemke/2011.09-arm-linux-eabi-lite/obj/binutils-src-2011.09-70-arm-none-linux-gnueabi-i686-mingw32/bfd/elf32-arm.c:7504
+collect2: ld returned 1 exit status
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).

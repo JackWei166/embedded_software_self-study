@@ -1,0 +1,5 @@
+In python I can print numbers and strings.
+In python I can traversal lists and dictionaries.
+In python I can write loop body.
+In python I can definite and call function.
+In python I can definite and call classes.

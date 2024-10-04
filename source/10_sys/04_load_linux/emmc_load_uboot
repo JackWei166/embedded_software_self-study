@@ -1,0 +1,4 @@
+# tftp 0x41000000 u-boot-fs4412.bin
+# emmc open 0
+# mmc write 0 0x41000000 0x0 0x800
+# emmc close 0

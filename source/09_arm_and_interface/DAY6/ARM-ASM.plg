@@ -1,0 +1,354 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\LinuxShare\09_arm_and_interface\DAY6\ARM-ASM.uvproj
+Project File Date:  09/03/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(13): error: invalid constant (12345678) after fixup
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(13): error: invalid constant (12345678) after fixup
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(48): error: shift expression expected -- `bic R1,R2,#0F'
+arm-asm.s - 1 Error(s), 1 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(48): error: shift expression expected -- `bic R1,R2,#0F'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(75): error: bad instruction `main£º'
+arm-asm.s(83): error: bad instruction `func£º'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(75): error: bad instruction `main£º'
+arm-asm.s(83): error: bad instruction `func£º'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(171): error: bad arguments to instruction -- `mov R1#0xFF000000'
+arm-asm.s(172): error: bad arguments to instruction -- `mov R2#0x40000000'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(171): error: bad arguments to instruction -- `mov R1#0xFF000000'
+arm-asm.s(172): error: bad arguments to instruction -- `mov R2#0x40000000'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(226): error: bad arguments to instruction -- `stmfd SP!{R1,R2}'
+arm-asm.s(230): error: bad arguments to instruction -- `ldmfd SP!{R1,R2}'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(239): error: symbol `MAIN' is already defined
+arm-asm.s(246): error: bad instruction `func1'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(239): error: symbol `MAIN' is already defined
+arm-asm.s(246): error: bad instruction `func1'
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(239): error: symbol `MAIN' is already defined
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+arm-asm.s(239): error: symbol `MAIN' is already defined
+Target not created
+Build target 'Target 1'
+assembling arm-asm.s...
+arm-asm.s: Assembler messages:
+Warning: arm-asm.s: Warning: end of file not at end of a line; newline inserted
+linking...
+"ARM-ASM.elf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+"ARM-ASM.elf" - 0 Error(s), 0 Warning(s).

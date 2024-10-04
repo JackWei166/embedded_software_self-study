@@ -1,0 +1,1 @@
+cmd_/home/linux/fs4412/mydrivercode/openonce_atomic.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-32-generic/scripts/module-common.lds --build-id  -o /home/linux/fs4412/mydrivercode/openonce_atomic.ko /home/linux/fs4412/mydrivercode/openonce_atomic.o /home/linux/fs4412/mydrivercode/openonce_atomic.mod.o

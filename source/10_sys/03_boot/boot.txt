@@ -1,0 +1,19 @@
+(help)
+help help
+help help setenv
+
+env
+ipaddr ipaddr 192.168.1.100
+serverip server 192.168.1.200
+bootcmd(m/args) bootcmd tftp addr linux\;tftp addr dtbs\;bootm linuxaddr -
+dtbsaddr
+setenv setenv ipaddr 192.168.1.100
+saveenv saveenv
+printenv printenv
+
+tftp
+tftp tftp addr addr size(rm name)
+
+mmc
+read read addr addr size(mmc 0)
+write write addr addr size(mmc 0)

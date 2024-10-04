@@ -1,0 +1,1 @@
+# setenv bootcmd tftp 0x41000000 uImage\;tftp 0x42000000 exynos4412-fs4412.dtb\;bootm 0x41000000 - 0x42000000

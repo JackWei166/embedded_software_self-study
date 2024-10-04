@@ -1,0 +1,5 @@
+# setenv ipaddr 192.168.1.200
+# setenv serveraddr 192.168.1.100
+# setenv bootcmd tftp 0x41000000 uImage\;tftp 0x42000000 exynos4412-fs4412.dtb\;tftp 0x43000000 ramdisk.img\;bootm 0x41000000 0x43000000 0x42000000
+# setenv bootargs root=/dev/nfs nfsroot=192.168.1.100:opt/4412/roofs rw console=ttySAC2,115200 init=/linuxrc ip=192.168.1.200
+# saveenv

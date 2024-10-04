@@ -1,0 +1,1 @@
+-mcpu=arm920t -mthumb-interwork -Wl,-Ttext=0x00000000 -o ARM-ASM.elf "arm-asm.o" "test.o" -nostartfiles -lm
